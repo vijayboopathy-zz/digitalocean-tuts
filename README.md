@@ -49,6 +49,8 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 
 ![](images/09_Region.jpg)
 
+## User-Data
+
 * This step may seem tricky. So pay close attention. You have to select the correct **User-Data** for the tool you are going to learn.
 
 * In this tutorial, We will be using User-Data for **Docker**.
@@ -73,6 +75,8 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 
 ![](images/16_Creds.jpg)
 
+## SSH to the Droplet
+
 * SSH to the Droplet using the credentials sent to you.
 
 ![](images/17_SSH.jpg)
@@ -82,6 +86,8 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 * Choose and your password and reset your default one.
 
 ![](images/18_Logged.jpg)
+
+## Codespaces IDE
 
 * The **User-Data** script will take **5 - 7 mins**
 to install and bring up Codespaces IDE.
