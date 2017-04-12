@@ -69,23 +69,6 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 
 ![](images/15_Launched.jpg)
 
-* The credentials for your Droplet will be mailed to you.
-
-* Check your inbox and find these credentials.
-
-![](images/16_Creds.jpg)
-
-## SSH to the Droplet
-
-* SSH to the Droplet using the credentials sent to you.
-
-![](images/17_SSH.jpg)
-
-* After logging in, you will be asked to reset the password.
-
-* Choose and your password and reset your default one.
-
-![](images/18_Logged.jpg)
 
 ## Codespaces IDE
 
@@ -101,3 +84,22 @@ to install and bring up Codespaces IDE.
 * After clicking on **Enter**, you will be able to use *Codespaces*.
 
 ![](images/21_console.gif)
+
+
+## SSH to the Droplet (Optional)
+
+* The credentials for your Droplet will be mailed to you.
+
+* Check your inbox and find these credentials.
+
+![](images/16_Creds.jpg)
+
+* SSH to the Droplet using the credentials sent to you.
+
+![](images/17_SSH.jpg)
+
+* After logging in, you will be asked to reset the password.
+
+* Choose and your password and reset your default one.
+
+![](images/18_Logged.jpg)
