@@ -51,11 +51,11 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 
 ## User-Data
 
-* This step may seem tricky. So pay close attention. You have to select the correct **User-Data** for the tool you are going to learn.
+* This step may seem tricky. So pay close attention. You have to select the correct [**User-Data**](https://github.com/vijayboopathy/digitalocean-tuts/tree/master/User-Data) for the tool you are going to learn.
 
 * In this tutorial, We will be using User-Data for **Docker**.
 
-* User-Data for other tools is available in **User-Data** directory of this repository.
+* User-Data for other tools is available in [**User-Data**](https://github.com/vijayboopathy/digitalocean-tuts/tree/master/User-Data) directory of this repository.
 
 ![](images/10_User_Data.jpg)
 
