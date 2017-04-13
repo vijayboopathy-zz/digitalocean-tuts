@@ -1,4 +1,4 @@
-# How to set-up Codespaces on DigitalOcean
+# How to set-up Codespaces for Chef on DigitalOcean
 
 This tutorial is about running Codespaces on DigitalOcean.
 
