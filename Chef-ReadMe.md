@@ -53,11 +53,11 @@ Sign up using the following [**Link**](https://cloud.digitalocean.com/registrati
 
 * This step may seem tricky. So pay close attention. You have to select the correct [**User-Data**](https://github.com/vijayboopathy/digitalocean-tuts/tree/master/User-Data) for the tool you are going to learn.
 
-* In this tutorial, We will be using User-Data for **Docker**.
+* In this tutorial, We will be using User-Data for **Chef**.
 
 * User-Data for other tools is available in [**User-Data**](https://github.com/vijayboopathy/digitalocean-tuts/tree/master/User-Data) directory of this repository.
 
-![](images/10_User_Data.jpg)
+![](images/22_Chef_User-Data.jpg)
 
 * If you have a private key and public key set-up on your local machine, then you can use this option.
 
